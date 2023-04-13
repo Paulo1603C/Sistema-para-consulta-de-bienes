@@ -1,0 +1,40 @@
+.info{
+    border: 1px solid black;
+	border-collapse: collapse;
+
+}.info td{
+	border:1px solid black;
+	padding: 10px 20px;
+	text-transform: uppercase;
+}
+
+.info tr:hover{
+    background:#808080;
+    color:white;
+}
+
+.info td:hover{
+    background:#ABB2B9;
+    font-size: 17px;
+}
+
+.btns{
+    padding: 20px;
+}
+
+.btn_imprimir{
+    position: relative;
+    top: 10px;
+    left:98.5%;
+}
+
+
+/*MEDIA QUERY*/
+@media all and (max-width: 614px) {
+    /*Enter code for responsive*/
+      .btn_imprimir{
+        position: relative;
+        top: 10px;
+        left:90%;
+      }
+}
