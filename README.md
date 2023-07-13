@@ -1,33 +1,37 @@
+
 # Sistema para consulta de Bienes
 
- Software diseñado para facilitar la administración y supervisión de información relacionada con los estudiantes en una institución educativa
+ Software diseñado para facilitar la consulta de bienes que las personas tienen registrado a su nombre, sistema diseñado para el `Municipio de Pelileo`
 
 ![Captura de pantalla del portafolio web](SM1.jpg)
 ![Captura de pantalla del portafolio web](SM2.jpg)
 
 ## Tecnologías utilizadas
 
-- Java
+- HTML5
+- CSS3
+- PHP
 - MySql
 
 ## Características
 
 - Diseño moderno y receptivo.
-- Listado de todos los estudiantes.
-- Reporte de estudiantes
+- Listado de todos los articulos
+- Control de usuarios
+- Reportes
 
 ## Instalación y ejecución
 Por el momento no se encuentra en host, pero se lo puede ejecutar de forma local con un servidor local para su visualización
 - Pasos:
 1. Clona o descarga este repositorio en tu máquina local.
-2. Abre el proyecto en tu editor texto preferido (NetBeans).
-4. Ejecuta con F5.
+2. Agrega el proyecto en un servidor local como XAMM, WampServer.
+4. Ejecuta la direcion del proyecto `localhost/proyecto`.
 
 ## Personalización
 
 Si deseas personalizar este sitio web para tu propio uso debes tener conocimiento en java, sigue estos pasos:
 
-1. Modifica los archivo `.java` segun tu diseño; ademas deberas cambiar el acceso a la BD.
+1. Modifica los archivo `.html y css ` segun tu diseño; ademas deberas cambiar el acceso a la BD en los archivos `.php` asi como el acceso a tus Apis.
 2. Guarda cambios y puedes ejecutarlo y ver los resultados
 
 ## Contribución
