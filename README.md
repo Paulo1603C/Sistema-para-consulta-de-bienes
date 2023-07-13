@@ -1,8 +1,9 @@
 # Portafolio Web Personal
 
-Sistema para la consulta de bienes que cada persona tiene a registrado a su nombre, permite a los usuarios consultar todos sus inmuebles a su nombre y imprimirlos 
+Sistema para la consulta de bienes que cada persona tiene a registrado a su nombre, permite a los usuarios consultar todos sus inmuebles a su nombre e imprimirlos 
 
-![Captura de pantalla del portafolio web](image.jpg)
+![Captura de pantalla del portafolio web](SM1.jpg)
+![Captura de pantalla del portafolio web](SM2.jpg)
 
 ## Tecnologías utilizadas
 
