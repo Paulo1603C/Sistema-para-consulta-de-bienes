@@ -1,36 +1,33 @@
 # Sistema para consulta de Bienes
 
-Sistema para la consulta de bienes que cada persona tiene a registrado a su nombre, permite a los usuarios consultar todos sus inmuebles a su nombre e imprimirlos 
+ Software diseñado para facilitar la administración y supervisión de información relacionada con los estudiantes en una institución educativa
 
 ![Captura de pantalla del portafolio web](SM1.jpg)
 ![Captura de pantalla del portafolio web](SM2.jpg)
 
 ## Tecnologías utilizadas
 
-- HTML5
-- CSS3
-- PHP
+- Java
+- MySql
 
 ## Características
 
 - Diseño moderno y receptivo.
-- Secciones claras para mostrar información relevante.
-- Listado de todos los item existenten a un nombre en especifico
-- Imprimi un comprovante de los inmuebles
+- Listado de todos los estudiantes.
+- Reporte de estudiantes
 
 ## Instalación y ejecución
 Por el momento no se encuentra en host, pero se lo puede ejecutar de forma local con un servidor local para su visualización
 - Pasos:
 1. Clona o descarga este repositorio en tu máquina local.
-2. Abre el proyecto en tu editor texto preferido .
-3. Coloca el proyecto en tu servidor local.
-4. Ejecuta la ruta de tu proyecto en tu navegador de preferencia `localhost/ProyectoEjemplo`
+2. Abre el proyecto en tu editor texto preferido (NetBeans).
+4. Ejecuta con F5.
 
 ## Personalización
 
-Si deseas personalizar este sitio web para tu propio uso debes tener conocimiento en html5, css3 y php, sigue estos pasos:
+Si deseas personalizar este sitio web para tu propio uso debes tener conocimiento en java, sigue estos pasos:
 
-1. Modifica los archivo `.html y .css` segun tu diseño; ademas `.php` para conexion a tu BD y servicios.
+1. Modifica los archivo `.java` segun tu diseño; ademas deberas cambiar el acceso a la BD.
 2. Guarda cambios y puedes ejecutarlo y ver los resultados
 
 ## Contribución
